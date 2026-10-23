@@ -1,0 +1,285 @@
+{
+  "updated": "2026-10-23T16:04:28+00:00",
+  "cities": [
+    {
+      "city": "Delhi",
+      "state": "Delhi",
+      "lat": 28.6139,
+      "lon": 77.209,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.076,
+      "lon": 72.8777,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "lat": 22.5726,
+      "lon": 88.3639,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "lat": 12.9716,
+      "lon": 77.5946,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "lat": 17.385,
+      "lon": 78.4867,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5204,
+      "lon": 73.8567,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "lat": 23.0225,
+      "lon": 72.5714,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "lat": 26.9124,
+      "lon": 75.7873,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Kochi",
+      "state": "Kerala",
+      "lat": 9.9312,
+      "lon": 76.2673,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "lat": 26.8467,
+      "lon": 80.9462,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "lat": 30.7333,
+      "lon": 76.7794,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "lat": 23.2599,
+      "lon": 77.4126,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Patna",
+      "state": "Bihar",
+      "lat": 25.5941,
+      "lon": 85.1376,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "lat": 11.0168,
+      "lon": 76.9558,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "lat": 9.9252,
+      "lon": 78.1198,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "lat": 17.6868,
+      "lon": 83.2185,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "lat": 8.5241,
+      "lon": 76.9366,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Surat",
+      "state": "Gujarat",
+      "lat": 21.1702,
+      "lon": 72.8311,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.1458,
+      "lon": 79.0882,
+      "petrol": 111.21,
+      "diesel": 111.21,
+      "live": true,
+      "checked": "2026-10-23T16:04:28+00:00"
+    }
+  ],
+  "retailers": [
+    {
+      "name": "Indian Oil",
+      "short": "IOCL",
+      "variants": [
+        {
+          "fuel": "Petrol",
+          "name": "Petrol (Regular)",
+          "offset": 0
+        },
+        {
+          "fuel": "Petrol",
+          "name": "XP95",
+          "offset": 8
+        },
+        {
+          "fuel": "Petrol",
+          "name": "XP100",
+          "offset": 70
+        },
+        {
+          "fuel": "Diesel",
+          "name": "Diesel (Regular)",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "name": "Bharat Petroleum",
+      "short": "BPCL",
+      "variants": [
+        {
+          "fuel": "Petrol",
+          "name": "Petrol (Regular)",
+          "offset": 0
+        },
+        {
+          "fuel": "Petrol",
+          "name": "Speed 97",
+          "offset": 12
+        },
+        {
+          "fuel": "Diesel",
+          "name": "Diesel (Regular)",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "name": "Hindustan Petroleum",
+      "short": "HPCL",
+      "variants": [
+        {
+          "fuel": "Petrol",
+          "name": "Petrol (Regular)",
+          "offset": 0
+        },
+        {
+          "fuel": "Petrol",
+          "name": "Power 95",
+          "offset": 8
+        },
+        {
+          "fuel": "Petrol",
+          "name": "Power 99",
+          "offset": 30
+        },
+        {
+          "fuel": "Diesel",
+          "name": "Diesel (Regular)",
+          "offset": 0
+        },
+        {
+          "fuel": "Diesel",
+          "name": "Turbojet Diesel",
+          "offset": 3
+        }
+      ]
+    }
+  ]
+}
