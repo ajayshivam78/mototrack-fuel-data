@@ -1,0 +1,31 @@
+{
+  "retailers": [
+    {
+      "name": "Indian Oil", "short": "IOCL",
+      "variants": [
+        {"fuel": "Petrol", "name": "Petrol (Regular)", "offset": 0},
+        {"fuel": "Petrol", "name": "XP95",             "offset": 8},
+        {"fuel": "Petrol", "name": "XP100",            "offset": 70},
+        {"fuel": "Diesel", "name": "Diesel (Regular)", "offset": 0}
+      ]
+    },
+    {
+      "name": "Bharat Petroleum", "short": "BPCL",
+      "variants": [
+        {"fuel": "Petrol", "name": "Petrol (Regular)", "offset": 0},
+        {"fuel": "Petrol", "name": "Speed 97",         "offset": 12},
+        {"fuel": "Diesel", "name": "Diesel (Regular)", "offset": 0}
+      ]
+    },
+    {
+      "name": "Hindustan Petroleum", "short": "HPCL",
+      "variants": [
+        {"fuel": "Petrol", "name": "Petrol (Regular)", "offset": 0},
+        {"fuel": "Petrol", "name": "Power 95",         "offset": 8},
+        {"fuel": "Petrol", "name": "Power 99",         "offset": 30},
+        {"fuel": "Diesel", "name": "Diesel (Regular)", "offset": 0},
+        {"fuel": "Diesel", "name": "Turbojet Diesel",  "offset": 3}
+      ]
+    }
+  ]
+}
