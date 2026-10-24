@@ -2,8 +2,8 @@ name: Update fuel prices
 
 on:
   schedule:
-    - cron: "0 */6 * * *"     # every 6 hours (UTC)
-  workflow_dispatch:           # lets you run it by hand
+    - cron: "15 1,7,13,19 * * *"   # 06:45, 12:45, 18:45, 00:45 India time
+  workflow_dispatch:
 
 permissions:
   contents: write
