@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-01T22:52:49+00:00",
+  "updated": "2026-11-02T07:43:02+00:00",
   "cities": [
     {
       "city": "Delhi",
@@ -10,7 +10,7 @@
       "petrol": 102.12,
       "diesel": 95.2,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Mumbai",
@@ -20,7 +20,7 @@
       "petrol": 111.21,
       "diesel": 97.83,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Chennai",
@@ -30,7 +30,7 @@
       "petrol": 107.76,
       "diesel": 99.55,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Kolkata",
@@ -40,17 +40,17 @@
       "petrol": 113.51,
       "diesel": 99.82,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Bengaluru",
       "state": "Karnataka",
       "lat": 12.9716,
       "lon": 77.5946,
-      "petrol": 110.93,
-      "diesel": 98.8,
+      "petrol": 111.68,
+      "diesel": 99.56,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Hyderabad",
@@ -60,27 +60,27 @@
       "petrol": 116.15,
       "diesel": 104.23,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Pune",
       "state": "Maharashtra",
       "lat": 18.5204,
       "lon": 73.8567,
-      "petrol": 111.41,
-      "diesel": 98.05,
+      "petrol": 111.9,
+      "diesel": 98.55,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Ahmedabad",
       "state": "Gujarat",
       "lat": 23.0225,
       "lon": 72.5714,
-      "petrol": 101.83,
-      "diesel": 97.92,
+      "petrol": 102.15,
+      "diesel": 98.27,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Jaipur",
@@ -90,7 +90,7 @@
       "petrol": 113.19,
       "diesel": 98.25,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Kochi",
@@ -100,7 +100,7 @@
       "petrol": 113.53,
       "diesel": 102.45,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Lucknow",
@@ -110,7 +110,7 @@
       "petrol": 101.89,
       "diesel": 95.36,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Chandigarh",
@@ -120,7 +120,7 @@
       "petrol": 101.54,
       "diesel": 89.47,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Bhopal",
@@ -130,17 +130,17 @@
       "petrol": 114.36,
       "diesel": 99.48,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Patna",
       "state": "Bihar",
       "lat": 25.5941,
       "lon": 85.1376,
-      "petrol": 113.73,
-      "diesel": 99.71,
+      "petrol": 113.37,
+      "diesel": 99.36,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Coimbatore",
@@ -150,7 +150,7 @@
       "petrol": 108.63,
       "diesel": 100.45,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Madurai",
@@ -160,7 +160,7 @@
       "petrol": 108.5,
       "diesel": 100.34,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Visakhapatnam",
@@ -169,7 +169,7 @@
       "lon": 83.2185,
       "petrol": 116.39,
       "diesel": 104.11,
-      "live": true,
+      "live": false,
       "checked": "2026-11-01T22:52:49+00:00"
     },
     {
@@ -180,17 +180,17 @@
       "petrol": 115.49,
       "diesel": 104.4,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Surat",
       "state": "Gujarat",
       "lat": 21.1702,
       "lon": 72.8311,
-      "petrol": 102.41,
-      "diesel": 98.55,
+      "petrol": 101.82,
+      "diesel": 97.95,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Nagpur",
@@ -200,7 +200,7 @@
       "petrol": 111.72,
       "diesel": 98.38,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Tiruchchirappalli",
@@ -210,7 +210,7 @@
       "petrol": 108.21,
       "diesel": 100.06,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Salem",
@@ -220,7 +220,7 @@
       "petrol": 108.6,
       "diesel": 100.43,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Vellore",
@@ -230,7 +230,7 @@
       "petrol": 108.45,
       "diesel": 100.24,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     },
     {
       "city": "Tirunelveli",
@@ -240,7 +240,7 @@
       "petrol": 108.67,
       "diesel": 100.52,
       "live": true,
-      "checked": "2026-11-01T22:52:49+00:00"
+      "checked": "2026-11-02T07:43:02+00:00"
     }
   ],
   "retailers": [
