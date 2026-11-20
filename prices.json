@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-19T21:39:12+00:00",
+  "updated": "2026-11-20T08:36:08+00:00",
   "cities": [
     {
       "city": "Delhi",
@@ -10,7 +10,7 @@
       "petrol": 102.12,
       "diesel": 95.2,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Mumbai",
@@ -20,7 +20,7 @@
       "petrol": 111.21,
       "diesel": 97.83,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Chennai",
@@ -30,7 +30,7 @@
       "petrol": 107.76,
       "diesel": 99.55,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Kolkata",
@@ -40,7 +40,7 @@
       "petrol": 113.51,
       "diesel": 99.82,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Bengaluru",
@@ -50,7 +50,7 @@
       "petrol": 110.44,
       "diesel": 98.39,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Hyderabad",
@@ -60,7 +60,7 @@
       "petrol": 115.71,
       "diesel": 103.84,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Pune",
@@ -70,7 +70,7 @@
       "petrol": 111.78,
       "diesel": 98.44,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Ahmedabad",
@@ -80,7 +80,7 @@
       "petrol": 101.81,
       "diesel": 97.92,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Jaipur",
@@ -90,7 +90,7 @@
       "petrol": 112.69,
       "diesel": 97.78,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Kochi",
@@ -100,7 +100,7 @@
       "petrol": 113.53,
       "diesel": 102.45,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Lucknow",
@@ -110,7 +110,7 @@
       "petrol": 102.23,
       "diesel": 95.71,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Chandigarh",
@@ -120,7 +120,7 @@
       "petrol": 101.54,
       "diesel": 89.47,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Bhopal",
@@ -130,7 +130,7 @@
       "petrol": 114.45,
       "diesel": 99.55,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Patna",
@@ -140,7 +140,7 @@
       "petrol": 113.37,
       "diesel": 99.36,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Coimbatore",
@@ -150,7 +150,7 @@
       "petrol": 108.45,
       "diesel": 100.27,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Madurai",
@@ -160,7 +160,7 @@
       "petrol": 108.47,
       "diesel": 100.32,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Visakhapatnam",
@@ -170,7 +170,7 @@
       "petrol": 116.39,
       "diesel": 104.11,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Thiruvananthapuram",
@@ -180,7 +180,7 @@
       "petrol": 115.49,
       "diesel": 104.4,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Surat",
@@ -190,7 +190,7 @@
       "petrol": 101.66,
       "diesel": 97.79,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Nagpur",
@@ -200,7 +200,7 @@
       "petrol": 111.8,
       "diesel": 98.48,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Tiruchchirappalli",
@@ -210,7 +210,7 @@
       "petrol": 108.23,
       "diesel": 100.06,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Salem",
@@ -220,7 +220,7 @@
       "petrol": 108.6,
       "diesel": 100.43,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Vellore",
@@ -230,7 +230,7 @@
       "petrol": 108.45,
       "diesel": 100.25,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     },
     {
       "city": "Tirunelveli",
@@ -240,7 +240,7 @@
       "petrol": 108.14,
       "diesel": 100.01,
       "live": true,
-      "checked": "2026-11-19T21:39:12+00:00"
+      "checked": "2026-11-20T08:36:08+00:00"
     }
   ],
   "retailers": [
